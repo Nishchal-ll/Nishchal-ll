@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Nishchal Acharya</h1>
-<h3 align="center">I am a Frontend Developer with a passion for creating responsive and interactive web applications. I enjoy working with modern web technologies and building projects from scratch.</h3>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nishchal._.l) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nishchalacharyaaa) 
