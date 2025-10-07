@@ -14,6 +14,6 @@ I am a Frontend Developer with a passion for creating responsive and interactive
 - Full-stack application architecture  
 
 ## 📫 How to Reach Me
-- Email: your-email@example.com  
+- Email: 
 - LinkedIn:  
 
