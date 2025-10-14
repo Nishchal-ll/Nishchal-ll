@@ -1,10 +1,18 @@
-<br clear="both">
-
-<h1 align="left">Hi, I’m Nishchal Acharya.</h1>
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=40&section=header&reversal=false&text=Hi%F0%9F%91%8B,%20I%E2%80%99m%20Nishchal%20Acharya.&fontSize=25&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=radical"  />
+</div>
 
 ###
 
-<h3 align="left">Tech Stack</h3>
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=22&section=header&reversal=false&text=FullStack%20Developer%20passionate%20about%20building%20responsive%20and%20interactive%20web%20apps&fontSize=14&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&theme=radical"  />
+</div>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=22&section=header&reversal=false&text=%F0%9F%9B%A0%EF%B8%8FTech%20Stack&fontSize=13&fontColor=FFFFFF&fontAlign=5&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&theme=radical"  />
+</div>
 
 ###
 
@@ -62,21 +70,13 @@
 
 ###
 
-<h3 align="left">Stats</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Nishchal-ll&locale=en&mode=daily&theme=aura_dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=22&section=header&reversal=false&text=%F0%9F%93%AB%20Let's%20Connect&fontSize=13&fontColor=FFFFFF&fontAlign=7&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&theme=radical"  />
 </div>
 
 ###
 
-<h3 align="left">Let's Connect</h3>
-
-###
-
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/nishchalacharyaaa" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
