@@ -1,6 +1,10 @@
 <br clear="both">
 
-<h2 align="center">Hi, I’m Nishchal Acharya.</h2>
+<h1 align="left">Hi, I’m Nishchal Acharya.</h1>
+
+###
+
+<h3 align="left">Tech Stack</h3>
 
 ###
 
@@ -58,11 +62,17 @@
 
 ###
 
+<h3 align="left">Stats</h3>
+
+###
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nishchal-ll&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nishchal-ll&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=Nishchal-ll&locale=en&mode=daily&theme=aura_dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
+
+###
+
+<h3 align="left">Let's Connect</h3>
 
 ###
 
