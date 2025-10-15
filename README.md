@@ -6,7 +6,7 @@
 
 ###
 
-<h4 align="left">🛠 Tech Stack</h4>
+<h4 align="left"> Tech Stack</h4>
 
 ###
 
