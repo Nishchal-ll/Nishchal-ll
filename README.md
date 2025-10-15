@@ -6,7 +6,7 @@
 
 ###
 
-<h4 align="left">🛠 Language and tools</h4>
+<h4 align="left">🛠 Tech Stack</h4>
 
 ###
 
@@ -68,7 +68,7 @@
 
 ###
 
-<h4 align="left">🔥   My Stats :</h4>
+<h4 align="left"> Stats :</h4>
 
 ###
 
