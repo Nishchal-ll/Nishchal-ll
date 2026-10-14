@@ -1,4 +1,4 @@
-## ☁️ AWS Learner
+
 
 <p align="center">
   <img src="./aws-educate-getting-started-with-networking-trainin.png" alt="AWS Educate Networking Badge" width="150" />
