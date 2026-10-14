@@ -1,20 +1,36 @@
 ## ☁️ AWS Training & Achievements
 
-I'm building my knowledge of cloud computing and networking through AWS Educate training.
+I'm continuously expanding my knowledge of cloud computing, networking, and AWS services through AWS Educate training.
 
-### 🏅 AWS Educate — Getting Started with Networking
+### 🏅 AWS Educate Badges
 
 <p align="center">
-  <a href="https://www.credly.com/badges/f6501757-ea43-4496-8d81-a5743ecb211a/public_url">
-    <img src="./aws-educate-getting-started-with-networking-trainin.png" alt="AWS Educate Getting Started with Networking Badge" width="220" />
+  <a href="https://github.com/Nishchal-ll/Nishchal-ll/blob/main/aws-educate-getting-started-with-networking-trainin.png">
+    <img src="./aws-educate-getting-started-with-networking-trainin.png" alt="AWS Educate Getting Started with Networking" width="200" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Nishchal-ll/Nishchal-ll/blob/main/1.png">
+    <img src="./1.png" alt="AWS Educate Storage Badge" width="200" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Nishchal-ll/Nishchal-ll/blob/main/2.png">
+    <img src="./2.png" alt="AWS Educate Compute Badge" width="200" />
   </a>
 </p>
 
-**Skills I'm developing:**
-- Cloud networking fundamentals
-- Understanding network infrastructure
-- Learning core AWS concepts
-
 <p align="center">
-  <a href="https://www.credly.com/badges/f6501757-ea43-4496-8d81-a5743ecb211a/public_url">View Badge on Credly</a>
+  <b>Getting Started with Networking</b> &nbsp; | &nbsp;
+  <b>Getting Started with Storage</b> &nbsp; | &nbsp;
+  <b>Getting Started with Compute</b>
 </p>
+
+### 📚 What I'm Learning
+
+- **Networking:** Cloud networking fundamentals and network infrastructure
+- **Storage:** Cloud storage concepts and AWS storage services
+- **Compute:** Cloud computing fundamentals and AWS compute services
+
+### 🚀 My Cloud Journey
+
+I'm working toward strengthening my cloud engineering skills by combining AWS training with hands-on development using Go, Docker, and cloud deployment platforms.
+
